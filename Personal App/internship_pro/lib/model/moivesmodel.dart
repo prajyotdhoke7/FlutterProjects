@@ -13,7 +13,6 @@ class Movie {
   final String country;
   final String awards;
   final String poster;
-
   final String metascore;
   final String imdbRating;
   final String imdbVotes;
